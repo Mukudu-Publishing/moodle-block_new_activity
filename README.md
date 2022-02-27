@@ -1,5 +1,15 @@
-__Mukudu Publishing Code Repository__
+__Introduction to Moodle 3.9+ Plugin Development__
 
-Please select the relevant product branch for the code respository.
+block\_new\_activity
 
-#### NOT SUITABLE FOR PRODUCTION ENVIROMENTS ####
+# Block Plugin: New Activity #
+
+__About__
+
+An example of an block plugin developed for the book and course.
+
+__Description__
+
+The plugin is a a dashboard block that displays any new course activities applicable to the user since the last time they were on the site.
+
+#### DO NOT USE THIS ON A PRODUCTION SYSTEM ####
